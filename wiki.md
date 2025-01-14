@@ -28,6 +28,6 @@ This dog breed is another favorite of mine because they seem so ***family-friend
 10-12 years
 
 ### See also
-- [Resource 1](https://en.wikipedia.org/wiki/Samoyed_dog)
-- [Resource 2](https://en.wikipedia.org/wiki/Chow_Chow)
-- [Resource 3](https://en.wikipedia.org/wiki/Golden_Retriever)
+- [More info on Samoyed](https://en.wikipedia.org/wiki/Samoyed_dog)
+- [More info on Chow Chow](https://en.wikipedia.org/wiki/Chow_Chow)
+- [More info on Golden](https://en.wikipedia.org/wiki/Golden_Retriever)
